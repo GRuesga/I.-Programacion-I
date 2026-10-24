@@ -1,0 +1,14 @@
+ACTIVIDAD DE CADENAS Y PERSISTENCIA
+
+Datos completamente sintéticos. 
+No contienen información de estudiantes reales.
+
+Requisitos: Python 3.10 o posterior. Solo biblioteca estándar, sin instalaciones adicionales.
+
+Extrae el archivo ZIP completo. Conserva la carpeta datos/ junto a los scripts en el mismo directorio.
+Abre una terminal en esta carpeta de trabajo.
+Ejecuta el script principal: python actividad_inicio.py.   
+
+Entradas utilizadas: datos/solicitudes.txt, datos/etiquetas.txt y datos/eventos.txt, codificadas en UTF-8.   
+
+NOTA: solicitudes.txt utiliza | como delimitador de campos; no contiene comillas, saltos internos ni barras verticales dentro de los textos. La primera línea corresponde al encabezado e incluye una línea vacía intencional dentro de los datos. El script de demostración genera la carpeta salidas_demo/, mientras que tu programa genera la carpeta definitiva salidas/. No modifiques los archivos originales de la carpeta datos/. 

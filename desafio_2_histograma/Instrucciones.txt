@@ -1,0 +1,14 @@
+Instrucciones - Desafío 2: Generador de Histograma
+
+Descripción:
+Este programa en Python (compatible con Python 3.10 o superior) toma una lista predefinida o personalizada de números enteros y genera un histograma visual impreso en la terminal mediante barras compuestas por asteriscos (*).
+
+Requisitos:
+- Python 3.10 o posterior.
+- Utiliza exclusivamente la biblioteca estándar de Python, sin instalaciones adicionales.
+
+Instrucciones de ejecución:
+1. Abre una terminal en la carpeta donde se encuentra guardado el script.
+2. Ejecuta el programa mediante el comando:
+   python desafio_2_histograma.py
+3. Revisa el resultado del histograma generado directamente en la salida estándar de la consola.
